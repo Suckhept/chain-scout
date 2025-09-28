@@ -10,6 +10,7 @@ chain-scout — минимальный CLI
 Использование:
   chain-scout --help
   chain-scout --version
+  chain-scout --version
   chain-scout greet --name NAME
   chain-scout analyze ./file.json
 `);
