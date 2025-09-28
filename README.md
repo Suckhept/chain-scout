@@ -1,3 +1,5 @@
+![CI](https://github.com/Suckhept/chain-scout/actions/workflows/ci.yml/badge.svg)
+
 # chain-scout
 Лёгкий CLI-инструмент для демонстрации «живого» GitHub‑проекта: шаблон для дальнейшего расширения
 (например, для ончейн-скриптов, проверки конфигов, генерации отчётов и т.д.).
